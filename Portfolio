@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naiya Patel | Data Analyst Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Roboto', sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+        header { background: #1e1e2f; color: #fff; padding: 2rem; text-align: center; }
+        section { max-width: 900px; margin: 2rem auto; background: #fff; padding: 2rem; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1, h2, h3 { color: #1e1e2f; }
+        .contact a { color: #007acc; text-decoration: none; }
+        .skills, .experience, .projects { margin-bottom: 2rem; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 0.5rem; }
+        footer { text-align: center; margin: 2rem 0; color: #666; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Naiya Patel</h1>
+        <p>Data & Financial Analyst | Chicago, IL</p>
+        <p class="contact">
+            <a href="mailto:naiyaa_patel@yahoo.com">naiyaa_patel@yahoo.com</a> |
+            <a href="tel:+19892949393">(989) 294-9393</a> |
+            <a href="https://www.linkedin.com/in/naiya29" target="_blank">LinkedIn</a> |
+            <a href="https://github.com/Naiya29" target="_blank">GitHub</a>
+        </p>
+    </header>
+    <section class="education">
+        <h2>Education</h2>
+        <ul>
+            <li><strong>Northwood University, MI</strong> – MS in Data Analytics, GPA: 3.90 (2023–2024)</li>
+            <li><strong>Maharaja Sayajirao University, India</strong> – Bachelors in Accounting & Finance, GPA: 4.0 (2018–2021)</li>
+        </ul>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li><strong>Languages:</strong> Python, R, SAS, MATLAB</li>
+            <li><strong>Tools:</strong> NumPy, Pandas, Matplotlib, OpenCV</li>
+            <li><strong>Databases:</strong> SQL (MySQL, PostgreSQL), MongoDB, Oracle, Hadoop, Spark</li>
+            <li><strong>Visualization:</strong> Tableau, Power BI, Excel, Looker</li>
+            <li><strong>Analytics:</strong> Data Mining, Modeling, Predictive Analytics, Ad Hoc Analysis</li>
+            <li><strong>Project Management:</strong> Jira, Agile, Stakeholder Engagement</li>
+        </ul>
+    </section>
+
+    <section class="experience">
+        <h2>Experience</h2>
+        <h3>Junior Financial/Data Analyst – Sktax Associates, Chicago, IL</h3>
+        <ul>
+            <li>Created BRDs and functional specs, increasing CRM efficiency by 10%.</li>
+            <li>Used SQL and BI tools for faster analytics and improved decision-making.</li>
+            <li>Enhanced KPI tracking and revenue by integrating governance framework.</li>
+        </ul>
+
+        <h3>Financial/Data Analyst Intern – Schaumburg Marketplace, IL</h3>
+        <ul>
+            <li>Analyzed healthcare datasets with Python/R improving data accuracy by 12%.</li>
+            <li>Developed Power BI dashboards and custom reports, cutting reporting time by 15%.</li>
+            <li>Helped reduce insurance fraud by 10% via predictive modeling techniques.</li>
+        </ul>
+
+        <h3>Financial Analyst – Velox Group, India</h3>
+        <ul>
+            <li>Improved reporting using SAP, reducing monthly close time by 25%.</li>
+            <li>Identified a $100,000 recurring savings through variance analysis.</li>
+        </ul>
+
+        <h3>Teaching Assistant – Python Programming, Midland, MI</h3>
+        <ul>
+            <li>Taught Python basics including loops, functions, and data structures to 10+ students.</li>
+        </ul>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <h3>Power BI Sales Dashboard – Northwood University</h3>
+        <ul>
+            <li>Designed an interactive dashboard using DAX, Power Query, and star schema model.</li>
+            <li>Enabled real-time insights and automated refresh, boosting decision-making speed by 25%.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Naiya Patel. All rights reserved.</p>
+    </footer>
+</body>
+</html>
